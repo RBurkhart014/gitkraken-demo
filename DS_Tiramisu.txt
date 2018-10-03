@@ -13,7 +13,11 @@ Ingredients
 5. 1/4 cup heavy cream
 6. 3 tablespoons kirschwasser
 7. 1 1/4 cups strong brewed coffee, cold
+<<<<<<< HEAD
 8. 200 ladyfingers
+=======
+8. 100 ladyfingers
+>>>>>>> master
 9. 1 cup unsweetened cocoa powder
 
 Directions
